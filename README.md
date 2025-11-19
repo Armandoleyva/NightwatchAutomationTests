@@ -1,4 +1,4 @@
-# Nightwatch Automation Tests
+# Nightwatch web Automation Tests with Javascript
 This repository contains a series of automated tests using Nightwatch.js. The tests are designed to ensure the correct functionality of the application's features.
 
 ## Prerequisites
